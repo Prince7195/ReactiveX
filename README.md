@@ -1,2 +1,1 @@
-# ReactiveX
-ReactiveX
+rx-js
